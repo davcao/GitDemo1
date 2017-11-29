@@ -1,1 +1,2 @@
 This is my first commit!
+Hey, this is your teammate! I'm making the second commit!"
